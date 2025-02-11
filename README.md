@@ -1,1 +1,1 @@
-Need to use Quartus Prime to upload bdf files to microcontroller.
+Need to use Quartus Prime to upload project files in BDF_file to microcontroller.
